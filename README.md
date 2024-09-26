@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @day-dreamer01
-- 🌱 I’m currently learning font-end web development
+- 🌱 I’m currently python
 
 <!---
 day-dreamer01/day-dreamer01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
